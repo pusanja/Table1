@@ -1,0 +1,30 @@
+.container{
+    display: grid;
+    grid-gap: 10px;
+    margin: 50px;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows:1fr 1fr 1fr ;
+    height: 100%;
+    
+}
+.red{
+    background: darkblue;
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.blue{
+    background-color: darkred;
+    color: white; 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    grid-column: 1/5;
+    grid-row: 1/3;
+
+
+}
+

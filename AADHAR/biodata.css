@@ -1,0 +1,29 @@
+h5{
+    text-align: center;
+    font-size:0px;
+  }
+ #img1{
+     height: 1.2cm;
+   }
+.abc{
+    margin-left: 0;
+    margin-right:100cm;
+    font-size: 20px;
+    padding-bottom: 5cm;
+    margin-top: 5cm;
+    text-align: left;
+}   
+.def{
+  border-style: solid ;
+  border-color: black;
+  margin-right:20cm ;
+  margin-left: 8cm;
+  margin-top: 5cm;
+  padding-top: 8px;
+  
+
+} 
+.col{
+  margin-right: 1.2cm;
+  padding-right: 5cm;
+}
