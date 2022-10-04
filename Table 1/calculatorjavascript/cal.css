@@ -1,0 +1,23 @@
+.calcu{
+    width: 403px;
+    height:650px;
+    border-color: red;
+    border-width: 10px;
+    color: red;
+    text-align: center;
+    padding-left: 580px;
+    padding-top: 100px;
+    
+}
+.row{
+    display: flex;
+    width: 1000px;
+    height:100px ;
+}
+.button{
+    width: 100px;
+}
+input.text11{
+    width: 392px;
+    height:75px;
+}
